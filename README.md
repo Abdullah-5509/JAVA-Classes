@@ -139,3 +139,18 @@ nested loops		::
 input with scanner	::
 ::::::::::::::::::::::::::
 
+Day-3
+
+Topics Coverd Today:::::::::::::::
+Methords			::		
+Classes				::
+Calling 			::
+Objects				::
+Modifying			::
+Parameters			::
+Cunstructors			::
+Overloading			::
+This attribute			::	
+Charachteristics of objects	::
+Tostring methord		::
+::::::::::::::::::::::::::::::::::
